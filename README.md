@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Bryan Bloomquist
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning VueJS
-- ⚡ Fun fact: I have no idea what to say here
+- 👋  Hi, I’m Bryan Bloomquist
+- 😄  Pronouns: he/him
+- 🌱  I’m currently learning VueJS
+- ⚡  Fun fact: I have no idea what to say here
 
 <!--
 **bryanbloomquist/bryanbloomquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
