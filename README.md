@@ -2,8 +2,8 @@
 
 - 👋  Hi, I’m Bryan Bloomquist
 - 😄  Pronouns: he/him
-- 🌱  I’m currently learning VueJS
-- ⚡  Fun fact: I have no idea what to say here
+- 👀  I’m interested in furthering my knowledge of WordPress and PHP
+- ⚡   Fun fact: I have no idea what to say here
 
 <!--
 **bryanbloomquist/bryanbloomquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
